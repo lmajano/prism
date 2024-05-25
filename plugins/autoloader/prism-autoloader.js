@@ -25,6 +25,7 @@
 		],
 		"birb": "clike",
 		"bison": "c",
+        "boxlang" : "clike",
 		"c": "clike",
 		"csharp": "clike",
 		"cpp": "c",
